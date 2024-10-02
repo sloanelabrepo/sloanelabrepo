@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is the code repository for the SloaneLab @UVA</h1>
-<h3 align="center">The **Sloane Lab** is an interdisciplinary research group led by sociologist **Mona Sloane, PhD**. We conduct empirical research on the implications of technology for the organization of social life, focusing particularly on **artificial intelligence (AI)** as a social phenomenon. Our research examines how AI intersects with cultural, economic, material, and political conditions.</h3>
+<h3 align="center">The **Sloane Lab** is an interdisciplinary research group led by sociologist Mona Sloane, PhD. We conduct empirical research on the implications of technology for the organization of social life, focusing particularly on artificial intelligence (AI) as a social phenomenon. Our research examines how AI intersects with cultural, economic, material, and political conditions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sloanelabrepo&label=Profile%20views&color=0e75b6&style=flat" alt="sloanelabrepo" /> </p>
 
